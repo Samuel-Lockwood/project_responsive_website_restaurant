@@ -1,0 +1,19 @@
+.app__laurels_content_card{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.app__laurels_awards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+.app__laurels_awards img{
+    width: 50px;
+    height: auto;
+}
