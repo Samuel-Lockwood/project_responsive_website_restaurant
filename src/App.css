@@ -8,13 +8,6 @@
   align-items: center;
 }
 
-.app__container{
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 4%;
-}
-
 .app__bg{
   background: url('./assets/bg.png');
   background-position: center;
@@ -132,10 +125,6 @@
     grid-template-columns: 1fr;
     row-gap: 5rem;
   }
-
-  /* .app__wrapper_img-reverse{
-    margin: 0 0 0rem 0;
-  } */
 
   .app__wrapper_img img{
     width: 100%;
