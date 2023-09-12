@@ -2,6 +2,8 @@
 
 ## Esta é uma página de destino de Restaurante criada para mostrar minhas habilidades front-end.
 
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+
 ### Tecnologias Utilizadas:
 - HTML5
 - CSS3
