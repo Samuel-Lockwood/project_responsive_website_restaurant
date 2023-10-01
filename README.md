@@ -1,6 +1,8 @@
 # Restaurante Ladding Page
 
-## Esta é uma página de destino temática da Era Medieval que desenvolvi para mostrar minhas habilidades no Front-End
+## Esta é uma página de destino de Restaurante criada para mostrar minhas habilidades front-end.
+
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 ### Tecnologias Utilizadas:
 - HTML5
@@ -8,8 +10,8 @@
 - React
 
 ### Recursos:
-- Loja De Espadas, Arco e Flexas, Armaduras e Escudos
-- Galeria de fotos da Era Medieval
-- Informações sobre a Era Medieval
-
+- Menu variado com bebidas
+- Galeria de fotos dos pratos
+- Informações sobre o restaurante, incluindo horário de funcionamento e localização
+- Opções de contato para dúvidas e feedback
 
